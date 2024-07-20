@@ -1,2 +1,5 @@
 # codsoft1
+## task 1-Student Grade Calculator
 In this Student Grade Calculator project, you can easily add the number of subjects, enter the marks, and instantly receive the average percentage and final result. This streamlined process simplifies grade management, making it quick and efficient to calculate students' academic performance.
+## task 2-ATM INTEFACE
+In cities, we commonly come across ATMs that were created with Java programming. This project is made up of four classes: BankAccount, ATMInterface, and Main. The BankAccount class keeps the account balance, whereas the ATM class performs transactions like withdrawing, depositing, and checking the balance. The ATMInterface class provides a user-friendly interface for interacting with the ATM, allowing users to choose actions and receive feedback. The Main class initializes the system and launches the interface. Users may do basic banking actions such as withdrawing, depositing, checking their balance, and exiting, with correct validation and message for each.
