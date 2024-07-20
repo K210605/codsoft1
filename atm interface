@@ -1,3 +1,4 @@
+package com.company;
 import java.util.Scanner;
 
 class BankAccount {
@@ -87,4 +88,3 @@ public class ATM {
         ATM atm = new ATM(account);
         atm.run();
     }
-}
